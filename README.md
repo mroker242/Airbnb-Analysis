@@ -4,7 +4,7 @@ The following is an analysis of a dataset of Airbnb in Seattle.
 
 ## Table of Contents
 
-<ul>
+<ol>
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Dependencies">Depenencies</a></li>
 <li><a href="#Motivations">Motivations</a></li>
@@ -12,7 +12,7 @@ The following is an analysis of a dataset of Airbnb in Seattle.
 <li><a href="#User Guide">User Guide</a></li>
 <li><a href="#licenses">Licenses</a></li>
 
-</ul>
+</ol>
 
 ## Installation
 
