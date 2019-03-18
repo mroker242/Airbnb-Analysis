@@ -2,6 +2,15 @@
 
 The following is an analysis of a dataset of Airbnb in Seattle.
 
+## Table of Contents
+
+<a href="#Installation">Installation</a>
+<a href="#Dependencies">Depenencies</a>
+<a href="#Motivations">Motivations</a>
+<a href="#File Descriptions">File Descriptions</a>
+<a href="#User Guide">User Guide</a>
+<a href="#licenses">Licenses</a>
+
 ## Installation
 
 This analysis requires:
