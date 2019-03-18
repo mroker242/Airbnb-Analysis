@@ -22,9 +22,9 @@ be successful in renting your home.
 
 ## File Descriptions
 
-- calendar.csv: contains data such as availability, dates, price
-- listings: contains every listing and has data such as bedrooms, bathrooms, host rating
-- Aibnb Seattle.ipynb - jupyter notebook containing analysis of Seattle Airbnb
+- **calendar.csv**: contains data such as availability, dates, price
+- **listings.csv**: contains every listing and has data such as bedrooms, bathrooms, host rating
+- **Aibnb Seattle.ipynb** - jupyter notebook containing analysis of Seattle Airbnb
 
 ## User Guide
 
